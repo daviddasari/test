@@ -1,2 +1,6 @@
+
 This line is from MAIN branch
+
+This line is from NEW-FEATURE branch
+
 
